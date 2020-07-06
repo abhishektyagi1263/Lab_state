@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  margin:1rem 0rem;
+  display: inline-block;
+  color: #2D2847;
+  font-size: 3rem;
+
+}
+
+h2{
+  margin: 2rem 0rem;
+  display: inline-block;
+}
+.checked {
+  color:orange;
+}
+
+.help{
+  margin: 3rem 6rem;
+}
+
+.head {
+  margin : 10rem 4rem;
+}
+
+
+p {
+
+}
